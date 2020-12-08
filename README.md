@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=caohuilin&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
 
-I'm working in [Qiniu Cloud](https://github.com/qbox), living in Shanghai.
+I'm working in [Qiniu Cloud](https://www.qiniu.com), living in Shanghai.
 
 ## This is me
 
