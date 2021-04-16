@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=caohuilin&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
 
-I'm working in [Qiniu Cloud](https://www.qiniu.com), living in Shanghai.
+I'm working in [Bytedance Inc.](https://github.com/bytedance), living in Shanghai.
 
 ## This is me
 
@@ -13,4 +13,5 @@ I'm working in [Qiniu Cloud](https://www.qiniu.com), living in Shanghai.
 - 喜欢和简单的人一起工作，我们只有一个目标 —— 把产品做得更好。
 
 - "用自己的一点点努力去改变世界" 是我的梦想 ~~
+
 
