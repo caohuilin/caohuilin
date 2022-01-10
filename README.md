@@ -14,4 +14,6 @@ I'm working in [Bytedance Inc.](https://github.com/bytedance), living in Shangha
 
 - "用自己的一点点努力去改变世界" 是我的梦想 ~~
 
+## 内推
 
+当前工作在字节跳动 Web Infra Web Dev Engine 团队，主要负责 [Modern.js](https://modernjs.dev/) 和内部 Jupiter 前端框架开发，感兴趣的可以联系我内推
